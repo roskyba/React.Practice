@@ -17,7 +17,11 @@ Please note. You need to run 2 instances of terminal - one for the App and secon
 # Extra info
 
 `/assets` - folder with images, fonts, logos etc.
+
 `/components` - folder with all of React components needed. You can create or rename as much as you like
+
 `data.json` - file that acts as a BE. We emulate is as a BE using json-server library. DO NOT MODIFY THE FILE!
+
 `/pages` - folder with pages that can navigated from SideBar
+
 `/utils` - folder with helpfull or resubale functiona JS code (non-React)
