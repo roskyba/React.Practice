@@ -1,0 +1,3434 @@
+{
+  "total": {
+    "homeworks": 80.8,
+    "visits": 72.1
+  },
+  "lessons": [
+    {
+      "_id": "62d68b22fca4fe718edc2cbf",
+      "date": "2022-08-29T00:00:00.000Z",
+      "number": 1,
+      "homework": true,
+      "homeworks": 100,
+      "visits": 93.3
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cc0",
+      "date": "2022-09-01T00:00:00.000Z",
+      "number": 2,
+      "homework": true,
+      "homeworks": 100,
+      "visits": 93.3
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cc1",
+      "date": "2022-09-05T00:00:00.000Z",
+      "number": 3,
+      "homework": true,
+      "homeworks": 115.4,
+      "visits": 93.3
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cc2",
+      "date": "2022-09-08T00:00:00.000Z",
+      "number": 4,
+      "homework": true,
+      "homeworks": 115.4,
+      "visits": 86.7
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cc3",
+      "date": "2022-09-12T00:00:00.000Z",
+      "number": 5,
+      "homework": true,
+      "homeworks": 100,
+      "visits": 86.7
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cc4",
+      "date": "2022-09-15T00:00:00.000Z",
+      "number": 6,
+      "homework": true,
+      "homeworks": 100,
+      "visits": 80
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cc5",
+      "date": "2022-09-19T00:00:00.000Z",
+      "number": 7,
+      "homework": true,
+      "homeworks": 100,
+      "visits": 80
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cc6",
+      "date": "2022-09-22T00:00:00.000Z",
+      "number": 8,
+      "homework": true,
+      "homeworks": 100,
+      "visits": 86.7
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cc7",
+      "date": "2022-09-26T00:00:00.000Z",
+      "number": 9,
+      "homework": true,
+      "homeworks": 100,
+      "visits": 86.7
+    },
+    {
+      "_id": "6332b030b4b9bc51f96d9af2",
+      "date": "2022-09-27T00:00:00.000Z",
+      "number": 10,
+      "homework": false,
+      "visits": 66.7
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cc8",
+      "date": "2022-09-29T00:00:00.000Z",
+      "number": 11,
+      "homework": true,
+      "homeworks": 93.3,
+      "visits": 86.7
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cc9",
+      "date": "2022-10-03T00:00:00.000Z",
+      "number": 12,
+      "homework": true,
+      "homeworks": 93.3,
+      "visits": 80
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cca",
+      "date": "2022-10-06T00:00:00.000Z",
+      "number": 13,
+      "homework": false,
+      "visits": 80
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2ccb",
+      "date": "2022-10-13T00:00:00.000Z",
+      "number": 14,
+      "homework": true,
+      "homeworks": 93.3,
+      "visits": 100
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2ccc",
+      "date": "2022-10-17T00:00:00.000Z",
+      "number": 15,
+      "homework": true,
+      "homeworks": 93.3,
+      "visits": 86.7
+    },
+    {
+      "_id": "634ab1cf6d844114b7c93cc1",
+      "date": "2022-10-18T00:00:00.000Z",
+      "number": 16,
+      "homework": false,
+      "visits": 53.3
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2ccd",
+      "date": "2022-10-24T00:00:00.000Z",
+      "number": 17,
+      "homework": true,
+      "homeworks": 93.3,
+      "visits": 73.3
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cce",
+      "date": "2022-10-27T00:00:00.000Z",
+      "number": 18,
+      "homework": true,
+      "homeworks": 86.7,
+      "visits": 73.3
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2ccf",
+      "date": "2022-10-31T00:00:00.000Z",
+      "number": 19,
+      "homework": true,
+      "homeworks": 86.7,
+      "visits": 73.3
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cd0",
+      "date": "2022-11-03T00:00:00.000Z",
+      "number": 20,
+      "homework": false,
+      "visits": 60
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cd1",
+      "date": "2022-11-07T00:00:00.000Z",
+      "number": 21,
+      "homework": true,
+      "homeworks": 93.3,
+      "visits": 73.3
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cd2",
+      "date": "2022-11-10T00:00:00.000Z",
+      "number": 22,
+      "homework": true,
+      "homeworks": 86.7,
+      "visits": 66.7
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cd3",
+      "date": "2022-11-14T00:00:00.000Z",
+      "number": 23,
+      "homework": true,
+      "homeworks": 66.7,
+      "visits": 73.3
+    },
+    {
+      "_id": "6374e5917c92a653bc3b94eb",
+      "date": "2022-11-18T00:00:00.000Z",
+      "number": 24,
+      "homework": false,
+      "visits": 53.3
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cd4",
+      "date": "2022-11-21T00:00:00.000Z",
+      "number": 25,
+      "homework": true,
+      "homeworks": 80,
+      "visits": 73.3
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cd5",
+      "date": "2022-11-24T00:00:00.000Z",
+      "number": 26,
+      "homework": false,
+      "visits": 40
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cd6",
+      "date": "2022-11-28T00:00:00.000Z",
+      "number": 27,
+      "homework": true,
+      "homeworks": 80,
+      "visits": 73.3
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cd7",
+      "date": "2022-12-01T00:00:00.000Z",
+      "number": 28,
+      "homework": false,
+      "visits": 66.7
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cd8",
+      "date": "2022-12-05T00:00:00.000Z",
+      "number": 29,
+      "homework": true,
+      "homeworks": 86.7,
+      "visits": 73.3
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cd9",
+      "date": "2022-12-08T00:00:00.000Z",
+      "number": 30,
+      "homework": true,
+      "homeworks": 66.7,
+      "visits": 60
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cda",
+      "date": "2022-12-12T00:00:00.000Z",
+      "number": 31,
+      "homework": true,
+      "homeworks": 53.3,
+      "visits": 73.3
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cdb",
+      "date": "2022-12-15T00:00:00.000Z",
+      "number": 32,
+      "homework": true,
+      "homeworks": 53.3,
+      "visits": 66.7
+    },
+    {
+      "_id": "6395f633ff56266a7dee3b7f",
+      "date": "2022-12-17T00:00:00.000Z",
+      "number": 33,
+      "homework": false,
+      "visits": 33.3
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cdc",
+      "date": "2022-12-19T00:00:00.000Z",
+      "number": 34,
+      "homework": true,
+      "homeworks": 40,
+      "visits": 66.7
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cdd",
+      "date": "2022-12-22T00:00:00.000Z",
+      "number": 35,
+      "homework": true,
+      "homeworks": 0,
+      "visits": 66.7
+    },
+    {
+      "_id": "62d68b22fca4fe718edc2cde",
+      "date": "2022-12-26T00:00:00.000Z",
+      "number": 36,
+      "homework": true,
+      "homeworks": 0,
+      "visits": 53.3
+    },
+    {
+      "_id": "63a6fad180f4b71e4a36cb58",
+      "date": "2022-12-27T00:00:00.000Z",
+      "number": 37,
+      "homework": false,
+      "visits": 33.3
+    }
+  ],
+  "students": [
+    {
+      "access": {
+        "lessons": [],
+        "start_lesson": 1
+      },
+      "status": "active",
+      "user": {
+        "_id": "624d9a51a794ef26500a4953",
+        "avatars": [
+          {
+            "_id": "6267f7f8f36baa2f7873fee5",
+            "destination": "uploads/images",
+            "filename": "fd01761e1e5110578bd72135ebc37612.jpg"
+          }
+        ],
+        "first_name": "Роман",
+        "last_name": "Блецко",
+        "hide_me_in_rating": false,
+        "first_name_en": "Roman",
+        "last_name_en": "Bletsko"
+      },
+      "homeworks_results": 26,
+      "homeworks_retakes": 0,
+      "points": 2527,
+      "grade": "very good",
+      "position": 1,
+      "id": null,
+      "visits": [
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-08-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-15T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-26T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-09-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-06T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-13T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-17T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-31T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-07T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-10T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-14T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-21T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-28T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-08T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-12-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-15T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-17T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-26T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-27T00:00:00.000Z"
+        }
+      ],
+      "homeworks_all": 92.9,
+      "visits_all": 97.3
+    },
+    {
+      "access": {
+        "lessons": [],
+        "start_lesson": 1
+      },
+      "status": "active",
+      "user": {
+        "_id": "61b8c7f4d0e04e49a087f6f3",
+        "avatars": [
+          {
+            "_id": "61b8c7e2341fde489aee40a7",
+            "destination": "uploads/images",
+            "filename": "5cc11e16d682bdb5fa9a52262a85d166.jpg"
+          }
+        ],
+        "first_name": "Олег",
+        "last_name": "Андрусів",
+        "first_name_en": "Oleh",
+        "last_name_en": "Andrusiv"
+      },
+      "homeworks_results": 26,
+      "homeworks_retakes": 2,
+      "points": 2518,
+      "grade": "very good",
+      "position": 2,
+      "id": null,
+      "visits": [
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-08-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-08T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-09-12T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-09-15T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-22T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-09-26T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-09-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-06T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-13T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-17T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-27T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-10-31T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-03T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-11-07T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-11-10T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-14T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-18T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-11-21T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-28T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-01T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-12-05T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-12-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-12T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-12-15T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-17T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-22T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-26T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-27T00:00:00.000Z"
+        }
+      ],
+      "homeworks_all": 92.9,
+      "visits_all": 56.8
+    },
+    {
+      "access": {
+        "lessons": [],
+        "start_lesson": 1
+      },
+      "status": "active",
+      "user": {
+        "_id": "62f50794e185492d0d7dd301",
+        "avatars": [
+          {
+            "_id": "62f507642035a42d0740d13b",
+            "destination": "uploads/images",
+            "filename": "a99ab7f241cec2e14b11b6558800b63c.jpg"
+          }
+        ],
+        "first_name": "Viacheslav",
+        "last_name": "Sydorenko",
+        "first_name_uk": "Viacheslav",
+        "last_name_uk": "Sydorenko"
+      },
+      "homeworks_results": 25,
+      "homeworks_retakes": 0,
+      "points": 2468,
+      "grade": "very good",
+      "position": 3,
+      "id": null,
+      "visits": [
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-08-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-15T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-26T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-09-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-29T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-10-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-06T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-13T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-17T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-31T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-07T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-10T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-14T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-21T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-28T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-15T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-17T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-26T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-27T00:00:00.000Z"
+        }
+      ],
+      "homeworks_all": 89.3,
+      "visits_all": 89.2
+    },
+    {
+      "access": {
+        "lessons": [],
+        "start_lesson": 1
+      },
+      "status": "active",
+      "user": {
+        "_id": "62f28dc5f37c6b3f700502db",
+        "avatars": [
+          {
+            "_id": "630394d725eb671bf55d67ad",
+            "destination": "uploads/images",
+            "filename": "badec18c73908cbdb8e35188e1ae72a3.jpg"
+          },
+          {
+            "_id": "630393e4f21ba11bef0bbb8e",
+            "destination": "uploads/images",
+            "filename": "92c59edda75d5d95f2fa7f4c752cdb1e.jpg"
+          },
+          {
+            "_id": "62f28da8f37c6b3f700502d7",
+            "destination": "uploads/images",
+            "filename": "062807f405dc5856d159462e5c901326.jpg"
+          }
+        ],
+        "first_name": "Данило",
+        "last_name": "Боднар"
+      },
+      "homeworks_results": 26,
+      "homeworks_retakes": 0,
+      "points": 2465,
+      "grade": "very good",
+      "position": 4,
+      "id": null,
+      "visits": [
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-08-29T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-09-01T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-09-05T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-09-08T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-09-12T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-09-15T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-09-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-22T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-09-26T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-09-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-29T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-10-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-06T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-13T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-10-17T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-10-18T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-10-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-31T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-07T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-11-10T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-11-14T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-18T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-11-21T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-24T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-11-28T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-01T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-12-05T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-12-08T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-12-12T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-12-15T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-17T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-12-19T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-22T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-26T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-27T00:00:00.000Z"
+        }
+      ],
+      "homeworks_all": 92.9,
+      "visits_all": 18.9
+    },
+    {
+      "access": {
+        "lessons": [],
+        "start_lesson": 1
+      },
+      "status": "active",
+      "user": {
+        "_id": "5dc2dfdde81cd74a4b9da274",
+        "avatars": [
+          {
+            "_id": "627aa962d587f7687be00368",
+            "destination": "uploads/images",
+            "filename": "8a377829e7fda0ec7e8839bbf23e70dd.jpg"
+          },
+          {
+            "_id": "5dcc29a4585879643f2c2b5f",
+            "destination": "uploads/images",
+            "filename": "76b07dd4b735e37f44275591566bf0a0.jpeg"
+          }
+        ],
+        "last_name_ru": "Дугасова",
+        "first_name_ru": "Наталья",
+        "last_name_en": "Dugasova",
+        "first_name_en": "Natalia",
+        "last_name": "Дугасова",
+        "first_name": "Наталья",
+        "first_name_uk": "Наталя",
+        "last_name_uk": "Дугасова"
+      },
+      "homeworks_results": 25,
+      "homeworks_retakes": 1,
+      "points": 2426,
+      "grade": "very good",
+      "position": 5,
+      "id": null,
+      "visits": [
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-08-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-15T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-09-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-26T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-09-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-03T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-10-06T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-13T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-17T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-10-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-27T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-10-31T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-03T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-11-07T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-11-10T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-14T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-21T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-28T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-05T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-12-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-15T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-17T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-19T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-26T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-27T00:00:00.000Z"
+        }
+      ],
+      "homeworks_all": 89.3,
+      "visits_all": 64.9
+    },
+    {
+      "access": {
+        "lessons": [],
+        "start_lesson": 1
+      },
+      "status": "active",
+      "user": {
+        "_id": "626280caf36baa2f7873765e",
+        "avatars": [
+          {
+            "_id": "627fa999b7f7134aa4966505",
+            "destination": "uploads/images",
+            "filename": "1e2370a0f26d4f4aa588aa14ce517092.jpg"
+          }
+        ],
+        "first_name": "Олег",
+        "last_name": "Оношко",
+        "first_name_en": "Oleg",
+        "last_name_en": "Onoshko"
+      },
+      "homeworks_results": 26,
+      "homeworks_retakes": 3,
+      "points": 2395,
+      "grade": "very good",
+      "position": 6,
+      "id": null,
+      "visits": [
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-08-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-15T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-26T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-09-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-06T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-13T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-17T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-24T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-10-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-31T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-07T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-10T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-14T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-21T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-28T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-05T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-12-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-15T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-17T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "on_checking",
+          "date": "2022-12-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-26T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-27T00:00:00.000Z"
+        }
+      ],
+      "homeworks_all": 92.9,
+      "visits_all": 83.8
+    },
+    {
+      "access": {
+        "lessons": [],
+        "start_lesson": 1
+      },
+      "status": "active",
+      "user": {
+        "_id": "626651dd9c4e8b2e8047b86d",
+        "avatars": [
+          {
+            "_id": "62665194f36baa2f7873c5a0",
+            "destination": "uploads/images",
+            "filename": "aab0f7edf8d4bb58416675c666146552.jpg"
+          }
+        ],
+        "first_name": "Владислав",
+        "last_name": "Клокун",
+        "first_name_en": "Vladyslav",
+        "last_name_en": "Klokun",
+        "hide_me_in_rating": false
+      },
+      "homeworks_results": 25,
+      "homeworks_retakes": 1,
+      "points": 2366,
+      "grade": "very good",
+      "position": 7,
+      "id": null,
+      "visits": [
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-08-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-15T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-26T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-09-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-06T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-13T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-17T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-10-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-10-31T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-07T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-10T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-14T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-21T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-28T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-15T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-17T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-19T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-26T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-27T00:00:00.000Z"
+        }
+      ],
+      "homeworks_all": 89.3,
+      "visits_all": 89.2
+    },
+    {
+      "access": {
+        "lessons": [],
+        "start_lesson": 1
+      },
+      "status": "active",
+      "user": {
+        "_id": "617bc5e1aae89862de7f7a4a",
+        "avatars": [
+          {
+            "_id": "617bc59603554662e069c935",
+            "destination": "uploads/images",
+            "filename": "5812c2deb547bf85826048bc45e228ab.jpg"
+          }
+        ],
+        "first_name": "Анастасия",
+        "last_name": "Фомина",
+        "first_name_en": "Anastasiia",
+        "last_name_en": "Fomina"
+      },
+      "homeworks_results": 23,
+      "homeworks_retakes": 1,
+      "points": 2202,
+      "grade": "very good",
+      "position": 8,
+      "id": null,
+      "visits": [
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-08-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-15T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-09-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-26T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-09-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-29T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-10-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-06T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-13T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-17T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-31T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-07T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-10T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-14T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-21T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-28T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-15T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-17T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-22T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-26T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-27T00:00:00.000Z"
+        }
+      ],
+      "homeworks_all": 82.1,
+      "visits_all": 89.2
+    },
+    {
+      "access": {
+        "lessons": [],
+        "start_lesson": 1
+      },
+      "status": "active",
+      "user": {
+        "_id": "628c917eb976c5291452544e",
+        "avatars": [
+          {
+            "_id": "628c915bb976c5291452544b",
+            "destination": "uploads/images",
+            "filename": "0b216ca58136f9ea6bf9efe1c6c44497.jpg"
+          }
+        ],
+        "first_name": "Марія",
+        "last_name": "Назарова",
+        "first_name_en": "Mariia",
+        "last_name_en": "Nazarova"
+      },
+      "homeworks_results": 25,
+      "homeworks_retakes": 5,
+      "points": 2160,
+      "grade": "very good",
+      "position": 9,
+      "id": null,
+      "visits": [
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-08-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-15T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-19T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-09-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-26T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-09-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-06T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-13T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-17T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-24T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-10-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-31T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-07T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-10T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-11-14T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-21T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-28T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-15T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-17T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-26T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-27T00:00:00.000Z"
+        }
+      ],
+      "homeworks_all": 89.3,
+      "visits_all": 89.2
+    },
+    {
+      "access": {
+        "lessons": [],
+        "start_lesson": 1
+      },
+      "status": "active",
+      "user": {
+        "_id": "62f63a3d0819b62e0344c793",
+        "avatars": [
+          {
+            "_id": "62f63a16e185492d0d7e0ce9",
+            "destination": "uploads/images",
+            "filename": "45624d89366d34609af792e9d83217a9.jpg"
+          }
+        ],
+        "first_name": "Ольга",
+        "last_name": "Семененко"
+      },
+      "homeworks_results": 23,
+      "homeworks_retakes": 1,
+      "points": 2145,
+      "grade": "very good",
+      "position": 10,
+      "id": null,
+      "visits": [
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-08-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-15T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-26T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-09-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-06T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-13T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-17T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-10-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-31T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-07T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-10T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-14T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-21T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-24T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-11-28T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-15T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-17T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-26T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-27T00:00:00.000Z"
+        }
+      ],
+      "homeworks_all": 82.1,
+      "visits_all": 91.9
+    },
+    {
+      "access": {
+        "lessons": [],
+        "start_lesson": 1
+      },
+      "status": "active",
+      "user": {
+        "_id": "626bec6dab3c3e711d234910",
+        "avatars": [
+          {
+            "_id": "626bd1d0ab3c3e711d2342d9",
+            "destination": "uploads/images",
+            "filename": "7ee8c85aa917f6d3935ccfc274bd1637.jpg"
+          }
+        ],
+        "first_name": "Дмитро",
+        "last_name": "Філь",
+        "first_name_en": "Dmytro",
+        "last_name_en": "Fil"
+      },
+      "homeworks_results": 21,
+      "homeworks_retakes": 0,
+      "points": 1976,
+      "grade": "very good",
+      "position": 11,
+      "id": null,
+      "visits": [
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-08-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-15T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-26T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-09-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-06T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-13T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-17T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-31T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-07T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-10T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-11-14T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-21T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-28T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-15T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-17T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-22T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-26T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-27T00:00:00.000Z"
+        }
+      ],
+      "homeworks_all": 75,
+      "visits_all": 94.6
+    },
+    {
+      "access": {
+        "lessons": [],
+        "start_lesson": 1,
+        "start_homeworks": "2022-09-06T13:46:43.143Z"
+      },
+      "freeze": {
+        "group": "62c5e443daa28b0c6e1320df",
+        "lesson": 5
+      },
+      "status": "active",
+      "user": {
+        "_id": "62602b145af9bf2e818bbb09",
+        "avatars": [
+          {
+            "_id": "62602adff36baa2f7873288d",
+            "destination": "uploads/images",
+            "filename": "59fcfde1d9e4e8eb14c0462ef9b3f265.jpg"
+          }
+        ],
+        "first_name": "Татьяна",
+        "last_name": "Павлюк",
+        "first_name_en": "Tetiana",
+        "last_name_en": "Pavliuk"
+      },
+      "homeworks_results": 20,
+      "homeworks_retakes": 0,
+      "points": 1804,
+      "grade": "good",
+      "position": 12,
+      "id": null,
+      "visits": [
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-08-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-09-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-15T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-26T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-09-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-03T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-10-06T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-13T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-17T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-10-18T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-10-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-10-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-31T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-07T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-10T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-11-14T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-21T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-11-28T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-12-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-12T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-15T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-17T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-26T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-27T00:00:00.000Z"
+        }
+      ],
+      "homeworks_all": 71.4,
+      "visits_all": 75.7
+    },
+    {
+      "access": {
+        "lessons": [],
+        "start_lesson": 1,
+        "start_homeworks": "2022-09-06T13:45:57.319Z"
+      },
+      "freeze": {
+        "group": "62c5e443daa28b0c6e1320df",
+        "lesson": 5
+      },
+      "status": "active",
+      "user": {
+        "_id": "625fffdf9c4e8b2e80471779",
+        "avatars": [
+          {
+            "_id": "627a69810e2e330f5b28602d",
+            "destination": "uploads/images",
+            "filename": "a7c395741c231ae95d24ee8dac42f442.jpg"
+          }
+        ],
+        "first_name": "Герман",
+        "last_name": "Мариевич",
+        "first_name_en": "Herman",
+        "last_name_en": "Mariievych"
+      },
+      "homeworks_results": 19,
+      "homeworks_retakes": 4,
+      "points": 1732,
+      "grade": "good",
+      "position": 13,
+      "id": null,
+      "visits": [
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-08-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-09-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-15T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-26T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-09-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-06T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-13T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-17T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-27T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-31T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-07T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-11-10T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-11-14T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-18T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-11-21T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-11-24T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-11-28T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-12-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-15T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-17T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-12-22T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-26T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-27T00:00:00.000Z"
+        }
+      ],
+      "homeworks_all": 67.9,
+      "visits_all": 83.8
+    },
+    {
+      "access": {
+        "lessons": [],
+        "start_lesson": 1
+      },
+      "status": "active",
+      "user": {
+        "_id": "619cf2ff7db73d78345633e2",
+        "avatars": [
+          {
+            "_id": "6317a2a725afe47181632051",
+            "destination": "uploads/images",
+            "filename": "446ff0fb05603f1ea95f4f2c3ef53c4c.jpg"
+          },
+          {
+            "_id": "619cf2ed7db73d78345633df",
+            "destination": "uploads/images",
+            "filename": "758e9a122445cb297d94ad8553a4feee.jpg"
+          }
+        ],
+        "first_name": "Анна",
+        "last_name": "Ракович",
+        "first_name_en": "Hanna",
+        "last_name_en": "Rakovych"
+      },
+      "homeworks_results": 18,
+      "homeworks_retakes": 4,
+      "points": 1705,
+      "grade": "good",
+      "position": 14,
+      "id": null,
+      "visits": [
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-08-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-05T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-09-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-12T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-09-15T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-19T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-09-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-26T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-09-27T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-09-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-03T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-10-06T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-13T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-10-17T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-10-18T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-10-24T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-10-27T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-10-31T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-03T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-11-07T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "complete",
+          "date": "2022-11-10T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-11-14T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-18T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-11-21T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-24T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-11-28T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-01T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-05T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-08T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-12T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-15T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-17T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-19T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-22T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-26T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-27T00:00:00.000Z"
+        }
+      ],
+      "homeworks_all": 64.3,
+      "visits_all": 24.3
+    },
+    {
+      "access": {
+        "lessons": [],
+        "start_lesson": 1
+      },
+      "status": "active",
+      "user": {
+        "_id": "61277d404f04974f072fbb2b",
+        "avatars": [
+          {
+            "_id": "61277d0993d8ea4e0ca1f2b9",
+            "destination": "uploads/images",
+            "filename": "7b576844d30f498c8d439763287ab95e.jpg"
+          }
+        ],
+        "first_name": "Ігор",
+        "last_name": "Богданов",
+        "first_name_en": "Bogdanov",
+        "last_name_en": "Igor"
+      },
+      "homeworks_results": 9,
+      "homeworks_retakes": 0,
+      "points": 774,
+      "grade": "satisfy",
+      "position": 15,
+      "id": null,
+      "visits": [
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-08-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-01T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-05T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-08T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-12T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-15T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-19T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-22T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "complete",
+          "date": "2022-09-26T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-09-27T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-09-29T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-10-03T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "date": "2022-10-06T00:00:00.000Z"
+        },
+        {
+          "visit": true,
+          "homework": "not_complete",
+          "date": "2022-10-13T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-10-17T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-10-18T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-10-24T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-10-27T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-10-31T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-03T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-11-07T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-11-10T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-11-14T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-18T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-11-21T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-11-24T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-11-28T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-01T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-05T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-08T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-12T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-15T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-17T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-19T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-22T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "homework": "not_complete",
+          "date": "2022-12-26T00:00:00.000Z"
+        },
+        {
+          "visit": false,
+          "date": "2022-12-27T00:00:00.000Z"
+        }
+      ],
+      "homeworks_all": 32.1,
+      "visits_all": 32.4
+    }
+  ]
+}
